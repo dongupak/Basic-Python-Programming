@@ -1,0 +1,5 @@
+print(0 < 10)
+print(4 > 10)
+print(3 <= 10)
+print(15 >= 10)
+print(1 > 2)
